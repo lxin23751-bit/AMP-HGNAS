@@ -25,13 +25,13 @@ sh download_hgb_datasets.sh
 
 For experiments on the large dataset ogbn-mag, the dataset will be automatically downloaded from OGB challenge.
 
-## Run LMSPS
+## Run AMP-HGNAS
 
-You can run LMSPS on HGB and ogbn-mag based on the command in [hgb](https://github.com/JHL-HUST/LMSPS/tree/main/hgb) and [ogbn-mag](https://github.com/JHL-HUST/LMSPS/tree/main/ogbn), respectively.
+You can run AMP-HGNAS on HGB and ogbn-mag based on the command in [hgb](https://github.com/JHL-HUST/AMP-HGNAS/tree/main/hgb) and [ogbn-mag](https://github.com/JHL-HUST/AMP-HGNAS/tree/main/ogbn), respectively.
 
 ## Cite
 
-If you use LMSPS in a scientific publication, we would appreciate citations to the following paper:
+If you use AMP-HGNAS in a scientific publication, we would appreciate citations to the following paper:
 
 ```
 @misc{li2024longrange,
