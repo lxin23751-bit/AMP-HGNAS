@@ -1,10 +1,9 @@
-# LMSPS
+# AMP-HGNAS
 
-This repository contains a PyTorch implementation of the preprint paper:  [Long-range Meta-path Search on Large-scale Heterogeneous Graphs](https://arxiv.org/pdf/2307.08430.pdf).
+This repository contains a PyTorch implementation of the preprint paper:  [Adaptive Meta-Path-based Neural Network Architecture Search for
+Heterogeneous Graphs]([https://arxiv.org/pdf/2307.08430.pdf](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5502763&__cf_chl_tk=NVk2EWrQN8IMOsF7Fiujnw8eNh1kTntoUdEF_sJEFU8-1780207443-1.0.1.1-qFagG.qmz9.DNHHJm38BIt_iiYyssfamswATJl.NMvA)).
 
 ## Requirements
-
-All experiments are conducted on Tesla V100 GPU (16GB).
 
 Please install the requirements using the following command. (The python version is 3.9.18)
 
