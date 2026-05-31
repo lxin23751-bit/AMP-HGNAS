@@ -1,4 +1,4 @@
-# LMSPS on HGB datasets
+# AMP-HGNAS on HGB datasets
 
 
 
