@@ -1,0 +1,13 @@
+Classification Report - DBLP_seed11_val
+==================================================
+
+              precision    recall  f1-score   support
+
+           0       0.96      0.99      0.97       368
+           1       0.98      0.94      0.96       238
+           2       0.98      0.99      0.98       317
+           3       0.98      0.97      0.98       294
+
+    accuracy                           0.97      1217
+   macro avg       0.98      0.97      0.97      1217
+weighted avg       0.97      0.97      0.97      1217

@@ -1,0 +1,10 @@
+#过滤大型文件
+*.pt
+
+#过滤大文件夹
+data/
+hgb/output/
+ogbn/output/
+
+hgb/coverage_dict.pkl
+*.pkl
