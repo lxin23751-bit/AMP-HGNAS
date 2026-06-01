@@ -42,6 +42,5 @@ If you use AMP-HGNAS in a scientific publication, we would appreciate citations 
 }
 ```
 
-## Acknowledgment
-
-This repository benefit from [SeHGNN](https://github.com/ICT-GIMLab/SeHGNN/tree/master/ogbn).
+markdown
+The structure and some instructions of this README are adapted from the [LMSPS](https://github.com/JHL-HUST/LMSPS) repository.
