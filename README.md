@@ -1,19 +1,18 @@
 # AMP-HGNAS
 
 This repository contains a PyTorch implementation of the preprint paper:  [Adaptive Meta-Path-based Neural Network Architecture Search for
-Heterogeneous Graphs]([https://arxiv.org/pdf/2307.08430.pdf](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5502763&__cf_chl_tk=NVk2EWrQN8IMOsF7Fiujnw8eNh1kTntoUdEF_sJEFU8-1780207443-1.0.1.1-qFagG.qmz9.DNHHJm38BIt_iiYyssfamswATJl.NMvA)).
+Heterogeneous Graphs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5502763).
 
 ## Requirements
 
-Please install the requirements using the following command. (The python version is 3.9.18)
+Python 3.9.18 is recommended. Install dependencies:
 
-```setup
+```bash
 pip install -r requirements.txt
 git clone https://github.com/Yangxc13/sparse_tools.git --depth=1
 cd sparse_tools
 python setup.py develop
 cd ..
-```
 
 ## Data preparation
 
@@ -27,20 +26,19 @@ For experiments on the large dataset ogbn-mag, the dataset will be automatically
 
 ## Run AMP-HGNAS
 
-You can run AMP-HGNAS on HGB and ogbn-mag based on the command in [hgb](https://github.com/JHL-HUST/AMP-HGNAS/tree/main/hgb) and [ogbn-mag](https://github.com/JHL-HUST/AMP-HGNAS/tree/main/ogbn), respectively.
+You can run AMP-HGNAS on HGB and ogbn-mag based on the command in [hgb](https://github.com/lxin23751-bit/AMP-HGNAS/tree/main/hgb) and [ogbn-mag](https://github.com/lxin23751-bit/AMP-HGNAS/tree/main/ogbn), respectively.
 
 ## Cite
 
 If you use AMP-HGNAS in a scientific publication, we would appreciate citations to the following paper:
 
 ```
-@misc{li2024longrange,
-      title={Long-range Meta-path Search on Large-scale Heterogeneous Graphs}, 
-      author={Chao Li and Zijie Guo and Qiuting He and Hao Xu and Kun He},
-      year={2024},
-      eprint={2307.08430},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
+@article{li2026adaptive,
+  title  = {Adaptive Meta-Path-Based Neural Network Architecture Search for Heterogeneous Graphs},
+  author  = {X. Li and P. Li{\'o} and L. Yang and Z. Ye and C. Peng},
+  journal= {Information Sciences},
+  year   = {2026},
+  pages  = {123554}
 }
 ```
 
