@@ -32,7 +32,7 @@ You can run AMP-HGNAS on HGB and ogbn-mag based on the command in [hgb](https://
 
 If you use AMP-HGNAS in a scientific publication, we would appreciate citations to the following paper:
 
-```
+```bibtex
 @article{li2026adaptive,
   title  = {Adaptive Meta-Path-Based Neural Network Architecture Search for Heterogeneous Graphs},
   author  = {X. Li and P. Li{\'o} and L. Yang and Z. Ye and C. Peng},
@@ -42,5 +42,6 @@ If you use AMP-HGNAS in a scientific publication, we would appreciate citations 
 }
 ```
 
-markdown
+```markdown
 The structure and some instructions of this README are adapted from the [LMSPS](https://github.com/JHL-HUST/LMSPS) repository.
+```
